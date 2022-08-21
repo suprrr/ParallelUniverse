@@ -5,4 +5,6 @@ int main(){
         printf("this is loop");
     }
     printf("man i a rational being");
+    printf("sun is closest to solar system man");
+    printf("man this is awesome");
 }
