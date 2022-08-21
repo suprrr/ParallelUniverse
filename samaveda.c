@@ -7,4 +7,8 @@ int main(){
     printf("man i a rational being");
     printf("sun is closest to solar system man");
     printf("man this is awesome");
+    
+
+    printf("this is sanjay 1212 edit ");
+    pirntf("please make note");
 }
