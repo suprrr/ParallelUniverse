@@ -4,5 +4,5 @@ int main(){
     for(int i=0;i<5;i++){
         printf("this is loop");
     }
-    printf("man i a socila being");
+    printf("man i a rational being");
 }
